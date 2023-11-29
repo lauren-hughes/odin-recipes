@@ -1,1 +1,2 @@
 # odin-recipes
+This project was created as part of [The Odin Project](https://www.theodinproject.com/lessons/foundations-recipes). It contains three formatted recipes (contained in the recipe directory), which each include an image, description, ingredients and steps. Each of these recipes can be navigated to via the index page. The project was created enitrely in HTML and ultimately serves as a brief demonstration of some introductory HTML skills.
